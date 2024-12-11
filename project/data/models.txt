@@ -1,0 +1,17 @@
+Custom (Pretrained Backbone) Model
+https://drive.google.com/file/d/1wycTHb-ze3kYsH5CKABujqBFKCnm2E0i/view?usp=sharing
+
+Custom (Non-Pretrained Backbone) Model
+https://drive.google.com/file/d/1Ve_h4TniMVJpGNiOwAY-7m2EhmkyV_ah/view?usp=sharing
+
+ViT Model:
+https://drive.google.com/file/d/1LnAJJRUZKdbMc9v7edZLPzm8YTxnCVYl/view?usp=sharing
+
+ResNet50 Model:
+https://drive.google.com/file/d/1Lqku-IOFgDDfIeTfSCzL4cS7LBzErbGE/view?usp=sharing
+
+GoogleNet Model:
+https://drive.google.com/file/d/1fmoxO2OrMCyXx7SyDlu6oWYpYlmkHOHZ/view?usp=sharing
+
+Simple U-Net Model:
+https://drive.google.com/file/d/1S1bcKzHdcFNanLUNgtbVRRKTG92uj-hD/view?usp=sharing
